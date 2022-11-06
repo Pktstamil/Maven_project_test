@@ -17,6 +17,7 @@ public static void main(String[] args) {
 	LoginPage i =new LoginPage();
 	sendkeys(i.getTxtUserName(), "tamil");
 	sendkeys(i.getTxtPassword(), "1234");
+	sendkeys(i.getTxtPassword(), "1234");
 	}
 	
 }
